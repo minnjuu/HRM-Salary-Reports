@@ -17,6 +17,8 @@
                 <li><a id="total" href="#" onclick="showSalaryChart()">Budget Allocation</a></li>
                 <br>
                 <li><a id="average" href="#" onclick="showAverageSalaryChart()">Average Salary</a></li>
+                <br>
+                <li><a id="count" href="#" onclick="showEmployeeCount()">Empolyee Count</a></li>
             </ul>
         </div>
         <br>
@@ -28,7 +30,7 @@
 
             <canvas id="salaryChart" width="1000" height="600"></canvas>
             <canvas id="averageChart" width="1000" height="600"></canvas>
-            <canvas id="employeeDistributionChart" width="1000" height="600"></canvas>
+            <canvas id="employeedisChart" width="1000" height="600"></canvas>
 
 
            
