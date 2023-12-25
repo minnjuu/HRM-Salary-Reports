@@ -28,6 +28,8 @@
 
             <canvas id="salaryChart" width="1000" height="600"></canvas>
             <canvas id="averageChart" width="1000" height="600"></canvas>
+            <canvas id="employeeDistributionChart" width="1000" height="600"></canvas>
+
 
            
         </div>
